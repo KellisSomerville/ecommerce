@@ -35,7 +35,6 @@ images[0] = "/images/extra_image1.jpeg";
 images[1] = "/images/extra_image2.jpeg";
 images[2] = "/images/extra_image3.jpeg";
 images[3] = "/images/extra_image4.jpeg";
-images[4] = "/images/extra_image5.jpeg";
 
 function changePicture() {
   document.slide.src = images[i]; // documents the images onto the img name on index html 
