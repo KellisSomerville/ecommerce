@@ -1,0 +1,37 @@
+[
+  {
+    "image": "images/979_00.jpg",
+    "title": "ASUS ROG Strix Gaming Desktop Computer, Intel 8-Core i7-11700 up to 4.9GHz, 32GB DDR4 RAM, 512GB PCIe SSD + 1TB HDD, RTX 3070 8GB GDDR6, WiFi 6, Bluetooth 5, USB-C, Windows 10",
+    "price": "$979.00"
+  },
+
+  {
+    "image": "images/1238_62.jpg",
+    "title": "Skytech Siege 3.0 Gaming PC Desktop - Intel i7-10700K 3.8GHz, RTX 3070 8G, 16G 3000, 1TB SSD, 240mm AIO, RGB Fans, AC WiFi, Windows 10 Home 64-bit",
+    "price": "$1238.62"
+  },
+
+  {
+    "image": "images/1299_99.jpg",
+    "title": "SkyTech Shadow 3.0 Gaming Computer PC Desktop - Ryzen 7 3700X 8-Core 3.6GHz, RTX 3060 12GB, 1TB SSD, 16GB DDR4 3200, RGB Fans, AC WiFi, 600W Gold PSU, Windows 11 Home 64-bit, Black",
+    "price": "$1299.99"
+  },
+
+  {
+    "image": "images/1699_99.jpg",
+    "title": "Skytech Chronos Gaming PC Desktop – Intel Core i7 12700F 2.1 GHz, NVIDIA RTX 3080, 1TB NVME SSD, 16GB DDR4 RAM 3200, 850W Gold PSU, 240mm AIO, 11AC Wi-Fi, Windows 11 Home 64-bit",
+    "price": "$1699.99"
+  },
+
+  {
+    "image": "images/2499_99.jpg",
+    "title": "Velztorm Lux Lyte CTO Gaming Desktop PC (AMD Ryzen 9-5900X 12-Core, GeForce RTX 3090 24GB, 16GB DDR4, 1TB PCIe SSD + 1TB HDD (3.5), 360 mmAIO, RGB Fans, 1000W PSU, WiFi 6, BT 5.0, Win 10 Home)",
+    "price": "$2499.99"
+  },
+
+  {
+    "image": "images/2999_99.png",
+    "title": "Skytech Prism II Gaming PC Desktop – AMD Ryzen 9 5900X 3.7 GHz, NVIDIA RTX 3090, 1TB NVME Gen4 SSD, 32GB DDR4 RAM 3200, 1000W Gold PSU, 360mm AIO, 11AC Wi-Fi, Windows 11 Home 64-bit",
+    "price": "$2999.99"
+  }
+]
